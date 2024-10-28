@@ -1,4 +1,4 @@
-# Python prep 101
+# Python prep 101 (Start : 28 Oct 2024)
 
 ## Table of Contents
 - [ ] Python
@@ -23,8 +23,9 @@
 
 
 ### Reference & Follow
-- [Intro to computer science - Python](https://www.khanacademy.org/computing/intro-to-python-fundamentals)
-- [Getting Started with Python](https://www.programiz.com/python-programming/getting-started)
+- [KA - AP®︎/College Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles)
+- [KA - Intro to computer science: Python](https://www.khanacademy.org/computing/intro-to-python-fundamentals)
+- [Programiz - Getting Started with Python](https://www.programiz.com/python-programming/getting-started)
 - [Learn X in Y minutes - Python](https://learnxinyminutes.com/docs/python/)
 
 ### Tools
